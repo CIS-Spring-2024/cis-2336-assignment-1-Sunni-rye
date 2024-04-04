@@ -1,6 +1,6 @@
 /* Top of page style of Logo and University Name*/
 body{
-    background-image: url("C:/Users/linda/Downloads/foodbg.jpeg");
+    background-image: url("../HTML/images/foodbg.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
